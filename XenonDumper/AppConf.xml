@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xex>
+  <format>
+    <compressed/>
+  </format>
+  <mediatypes>
+    <default/>
+    <allpackages/>
+  </mediatypes>
+  <gameregion>
+    <all/>
+  </gameregion>
+      <!-- Our xex privileges -->
+  <privilege id="0"/> <!-- No Force Reboot -->
+  <section file="Media/XD_res.xzp" name="XDR" memory="RO"/>
+  <section file="Media/Simple360NandFlasher.xex" name="S360NF" memory="RO"/>
+
+</xex>

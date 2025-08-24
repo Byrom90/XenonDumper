@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns:atg="http://atg.xbox.com" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="XenonDumper.cpp" />
+    <ClCompile Include="Functions.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="XuiClasses.cpp" />
+    <ClCompile Include="HVFuncs.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Functions.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="XuiClasses.h" />
+    <ClInclude Include="HVFuncs.h" />
+  </ItemGroup>
+</Project>
